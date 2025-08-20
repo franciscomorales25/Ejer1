@@ -20,7 +20,7 @@ double altura=sc.nextDouble();
         System.out.println("La cantidad de rectangulo es: "+area);
 
         sc.close();
-
+System.out.println("la base de rectangulo es: "+base);
 
     }
 }
